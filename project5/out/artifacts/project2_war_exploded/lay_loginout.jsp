@@ -23,6 +23,6 @@
             alert('注销成功！')</script>
 <script src="./static/jquery/jquery.min.js"></script>
 <!-- Bootstrap JavaScript 文件 -->
-<script src="./static/bootstrap/js/bootstrap.min.js"></script>
+<script src="./static/bootstrap/js/bootstrap.min.js"></script
 </body>
 </html>
