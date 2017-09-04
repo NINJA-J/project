@@ -101,7 +101,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">编辑推荐</div>
                 <div class="panel-body">
-                    <form class="form-horizontal" method="get" action="能力规范文稿管理系统.jsp">
+                    <form class="form-horizontal" method="get" action="check2.jsp">
                         <div class="form-group">
                             <label for="Profession">职称</label>
                             <input type="text" class="form-control" name="Profession" id="Profession" placeholder="职称">
